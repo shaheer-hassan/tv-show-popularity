@@ -1,0 +1,43 @@
+body{background-image: url(https://t4.ftcdn.net/jpg/04/32/95/01/360_F_432950197_MEyrq2W0zHzd7vhlY3hqHYc3Z2r32d1E.jpg);}
+    h1{background-color:#17202A ;color:#ECF0F1  ; text-align:center;font-size:60px;
+    padding-left:15px;padding-right:15px;padding-top:15px;padding-bottom:15px;}
+   .btnn{ 
+  border: none;
+  color: black;
+  padding: 10px;
+  text-align: center;
+   
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+     transition-duration: 0.4s;
+}
+  
+    .btn{
+      
+      
+      margin:10px;
+      cursor:pointer;
+      padding:10px;
+      transition-duration: 0.4s;
+               }
+    
+    .trends{position:absolute;left:50px;top:180px;background-color:#F4F6F7;color:#17202A;border: solid #7B7D7D;}
+    .notifications{position:absolute;left:50px;top:240px;background-color:#F4F6F7;color:#17202A;border:solid #7B7D7D;}
+    .settings{position:absolute;left:50px;top:300px;background-color:#F4F6F7;color:#17202A;border:solid #7B7D7D;}
+    .review{position:absolute;left:50px;top:360px;background-color:#F4F6F7;color:#17202A;border:solid #7B7D7D;}
+    .videos{position:absolute;left:50px;top:420px;background-color:#F4F6F7;color:#17202A;border:solid #7B7D7D;}
+    
+    .trends:hover{background-color:#17202A;color:#F4F6F7;}
+    .notifications:hover{background-color:#17202A;color:#F4F6F7;}
+    .settings:hover{background-color:#17202A;color:#F4F6F7;}
+    .review:hover{background-color:#17202A;color:#F4F6F7;}
+    .videos:hover{background-color:#17202A;color:#F4F6F7;border:}
+   
+   
+
+.btn1 {position:absolute;right:8px; top:10px;background-color: #F4F6F7;color:#17202A;border: solid #7B7D7D;}
+.btn2 {position:absolute;right:100px;top:10px;background-color: #F4F6F7;color:#17202A;border: solid #7B7D7D;}
+  
+    .btn1:hover{background-color:#17202A;color:#F4F6F7;border:solid #7B7D7D;}
+    .btn2:hover{background-color:#17202A;color:#F4F6F7;border:solid #7B7D7D;}
